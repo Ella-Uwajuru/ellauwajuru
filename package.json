@@ -1,5 +1,5 @@
 {
-  "name": "npminit",
+  "name": "ella-calculator",
   "version": "1.0.0",
   "main": "addtion.js",
   "scripts": {
@@ -7,8 +7,17 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "express": "^4.18.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ella-Uwajuru/ellauwajuru.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ella-Uwajuru/ellauwajuru/issues"
+  },
+  "homepage": "https://github.com/Ella-Uwajuru/ellauwajuru#readme",
+  "devDependencies": {},
+  "description": ""
 }
